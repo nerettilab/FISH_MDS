@@ -1,5 +1,5 @@
 #FISH-MDS: Multidimensional scaling (MDS) For Chromosome Structure Inference With Constraints From FISH
-## Tutorial By Steven Criscione and Jack Zhang
+
 Email: [nicola_neretti@brown.edu](mailto:nicola_neretti@brown.edu)
 
 ## Dependencies
