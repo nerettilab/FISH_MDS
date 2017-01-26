@@ -3,7 +3,7 @@
 Email: [nicola_neretti@brown.edu](mailto:nicola_neretti@brown.edu)
 
 ## Dependencies
-FISH_MDS.jl is a Julia package that models 3D structure from Hi-C contact matrices. To use the package please first download Julia and the following libraries.  The companion viewer for the package is [3DC-Browser] (https://github.com/yjzhang/3DC-Browser).  Please download and install the following:
+FISH_MDS.jl is a Julia package that models 3D structure from Hi-C contact matrices. To use the package please first download Julia and the following libraries.  The companion viewer for the package is [3DC-Browser] (https://github.com/nerettilab/3DC-Browser).  Please download and install the following:
 
 [Julia](http://julialang.org/) tested with version julia/0.4.0
 
@@ -15,14 +15,14 @@ Julia libraries:
 [Grid.jl](https://github.com/timholy/Grid.jl) ( optional, for argument: --interp 3D interpolation )  
 [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) (for the command-line interface)  
 
-Visualization: [3DC-Browser] (https://github.com/yjzhang/3DC-Browser)
+Visualization: [3DC-Browser] (https://github.com/nerettilab/3DC-Browser)
 
 ##FISH_MDS.jl installation:
 
 First, open interactive Julia and run:  
 
     julia
-    julia> Pkg.clone("https://github.com/yjzhang/FISH_MDS.jl.git")
+    julia> Pkg.clone("https://github.com/nerettilab/FISH_MDS.jl.git")
 
 and create a "main.jl" file with the following commands:  
 
